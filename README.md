@@ -8,7 +8,7 @@ Estamos ultimando los detalles. ¡Muy pronto podrás disfrutar de **DexterOS Gno
 🔧 **Características**:
 - Basado en Debian.
 - Kernel Xanmod para mayor rendimiento.
-- Entorno de escritorio GNOME optimizado.
+- Entorno de escritorio GNOME minimo.
 - Software esencial y minimalista para usuarios cotidianos, sin software innecesario, ni de terceros.
 
 ¡Mantente atento para más actualizaciones!
